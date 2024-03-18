@@ -13,7 +13,7 @@ uploaded = files.upload()
 """
 @filename: PA3part6.py
 @authors: Daniel Rios
-@description: It begins by reading student data from a CSV file, creating a
+@description: The program begins by reading student data from a CSV file, creating a
 nested dictionary (records) to store information about individual students and
 their performance in two courses. The script calculates and writes each student's
 GPA to a 'gpa.txt' file. The user is then presented with a menu offering options
